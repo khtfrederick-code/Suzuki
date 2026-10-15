@@ -1,0 +1,22 @@
+[
+  {
+    "productId": 111285,
+    "variationId": null,
+    "name": "WIPER MOTOR ASSEMBLY (LHD) – SAMURAI ’85-’95",
+    "slug": "wiper-motor-assembly-lhd-samurai-85-95",
+    "sku": "2411863",
+    "image": "/assets/catalog/products/111/111285-0-wiper-motor-assembly-lhd-samurai-85-95.webp",
+    "unitPrice": 129.99,
+    "regularPrice": 149.99
+  },
+  {
+    "productId": 115181,
+    "variationId": null,
+    "name": "CLEARANCE – CLUTCH CABLE (PLASTIC MOUNT) – LEFT HAND DRIVE – SAMURAI ’85-’95",
+    "slug": "cable-clutch-plastic-mount-left-hand-drive-samurai-85-95",
+    "sku": "3000711",
+    "image": "/assets/catalog/products/115/115181-0-cable-clutch-plastic-mount-left-hand-drive-samur.webp",
+    "unitPrice": 19.99,
+    "regularPrice": 29.99
+  }
+]

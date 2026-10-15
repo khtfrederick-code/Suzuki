@@ -1,0 +1,24 @@
+{
+  "logo": {
+    "source": "https://suzukipartsusa.com/wp-content/uploads/2019/05/Suzuki-Parts-USA-logo.png",
+    "license": "Suzuki Parts USA store branding, downloaded from the live site for this storefront."
+  },
+  "products": "Product and category photographs were downloaded from suzukipartsusa.com and depict that store's listed merchandise.",
+  "vehicles": [
+    {
+      "file": "vehicles/1991-suzuki-samurai.webp",
+      "title": "1991 Suzuki Samurai 1.3",
+      "source": "https://commons.wikimedia.org/wiki/File:1991_Suzuki_Samurai_1.3_(52761700507).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "file": "photography/about-samurai-rax.webp",
+      "title": "Suzuki Samurai at Rax, Austria",
+      "author": "GT1976",
+      "source": "https://commons.wikimedia.org/wiki/File:2017-11-02_(406)_Suzuki_Samurai_at_Rax,_Austria.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ]
+}

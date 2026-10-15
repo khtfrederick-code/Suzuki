@@ -1,0 +1,53 @@
+{
+  "retrieved_at": "2026-10-14T22:38:07.529649+00:00",
+  "products_in_index": 1219,
+  "descriptions_stored": 1219,
+  "descriptions_empty": 1,
+  "empty_description_ids": [
+    102669
+  ],
+  "empty_description_name": "EMBLEM, STEERING WHEEL HORN BUTTON",
+  "product_image_references": 2488,
+  "unique_product_image_urls": 2389,
+  "duplicate_image_references": 99,
+  "unique_product_images_saved": 2389,
+  "category_images_on_source": 51,
+  "category_images_saved": 51,
+  "categories_without_a_source_image": [
+    {
+      "id": 3958,
+      "name": "Clearance Parts",
+      "slug": "clearance"
+    },
+    {
+      "id": 3150,
+      "name": "Gaskets",
+      "slug": "gaskets-engine-parts"
+    },
+    {
+      "id": 2999,
+      "name": "Other Suzuki Parts",
+      "slug": "other-suzuki-parts"
+    },
+    {
+      "id": 3964,
+      "name": "Transfer Case",
+      "slug": "transfer-case"
+    }
+  ],
+  "products_with_no_source_image": [
+    {
+      "id": 119610,
+      "name": "FRONT SHOCKS (OEM) \u2013 SAMURAI \u201985-\u201995"
+    },
+    {
+      "id": 113353,
+      "name": "COMPLETE INSTRUMENT CLUSTER / SPEEDOMETER BULB KIT \u2013 SAMURAI \u201980-\u201995"
+    }
+  ],
+  "placeholder": "/assets/catalog/image-unavailable.webp",
+  "rate_limit_notes": "Ten image requests returned HTTP 429 during a parallel download. Each of those files was saved by the other request, and the files are on disk.",
+  "image_root": "public/assets/catalog",
+  "image_map": "catalog/image-map.jsonl",
+  "descriptions": "catalog/descriptions.jsonl"
+}

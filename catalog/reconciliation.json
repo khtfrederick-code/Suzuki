@@ -1,0 +1,407 @@
+{
+  "retrieved_at": "2026-10-14T22:15:22.678925+00:00",
+  "source": "https://suzukipartsusa.com",
+  "endpoint": "/wp-json/wc/store/v1/products",
+  "products_reported_by_store": 1219,
+  "unique_products_indexed": 1219,
+  "product_pages_completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "product_page_failures": [],
+  "categories_discovered": 55,
+  "top_level_categories": 29,
+  "child_categories": 26,
+  "products_missing_images": 2,
+  "products_missing_prices": 0,
+  "products_missing_descriptions": 1,
+  "products_missing_sku": 0,
+  "products_with_options_or_variations": 0,
+  "category_count_mismatches": [
+    {
+      "id": 3003,
+      "name": "Axles & Housings",
+      "slug": "axles-shafts",
+      "reported_count": 56,
+      "products_assigned": 10
+    },
+    {
+      "id": 3082,
+      "name": "Bolts, Washers, etc\u2026.",
+      "slug": "boltswashersscrews",
+      "reported_count": 77,
+      "products_assigned": 39
+    },
+    {
+      "id": 3019,
+      "name": "Engine Parts",
+      "slug": "engine",
+      "reported_count": 118,
+      "products_assigned": 55
+    },
+    {
+      "id": 3026,
+      "name": "Exterior Parts",
+      "slug": "exterior-parts",
+      "reported_count": 110,
+      "products_assigned": 0
+    },
+    {
+      "id": 3035,
+      "name": "Interior Parts",
+      "slug": "interior-parts",
+      "reported_count": 134,
+      "products_assigned": 1
+    },
+    {
+      "id": 3046,
+      "name": "Lights",
+      "slug": "light-assemblies-lenses",
+      "reported_count": 40,
+      "products_assigned": 0
+    },
+    {
+      "id": 3042,
+      "name": "Lights, Mirrors, Visors",
+      "slug": "lights-mirrorsvisors",
+      "reported_count": 9,
+      "products_assigned": 10
+    },
+    {
+      "id": 3051,
+      "name": "Locks & Latches",
+      "slug": "locks-latches",
+      "reported_count": 41,
+      "products_assigned": 23
+    },
+    {
+      "id": 2999,
+      "name": "Other Suzuki Parts",
+      "slug": "other-suzuki-parts",
+      "reported_count": 11,
+      "products_assigned": 0
+    },
+    {
+      "id": 3043,
+      "name": "Seat, Carpet, Pedals",
+      "slug": "seatspedalscarpet",
+      "reported_count": 30,
+      "products_assigned": 32
+    },
+    {
+      "id": 3106,
+      "name": "Steering Knuckle",
+      "slug": "steering-knuckle",
+      "reported_count": 86,
+      "products_assigned": 36
+    },
+    {
+      "id": 3070,
+      "name": "Transmission",
+      "slug": "transmission",
+      "reported_count": 101,
+      "products_assigned": 0
+    }
+  ],
+  "top_level": [
+    {
+      "id": 3003,
+      "name": "Axles & Housings",
+      "slug": "axles-shafts",
+      "count": 56,
+      "child_ids": [
+        3005,
+        3012
+      ]
+    },
+    {
+      "id": 3008,
+      "name": "Body Panels",
+      "slug": "body-panels-hoodfenderetc",
+      "count": 59,
+      "child_ids": []
+    },
+    {
+      "id": 3082,
+      "name": "Bolts, Washers, etc\u2026.",
+      "slug": "boltswashersscrews",
+      "count": 77,
+      "child_ids": [
+        3020
+      ]
+    },
+    {
+      "id": 3081,
+      "name": "Book & Manual",
+      "slug": "bookmanuals",
+      "count": 2,
+      "child_ids": []
+    },
+    {
+      "id": 3009,
+      "name": "Brakes",
+      "slug": "brakes",
+      "count": 51,
+      "child_ids": []
+    },
+    {
+      "id": 3010,
+      "name": "Cables",
+      "slug": "cables-speedacchoodetc",
+      "count": 25,
+      "child_ids": []
+    },
+    {
+      "id": 3958,
+      "name": "Clearance Parts",
+      "slug": "clearance",
+      "count": 9,
+      "child_ids": []
+    },
+    {
+      "id": 3011,
+      "name": "Cooling System",
+      "slug": "cooling-system-radiator",
+      "count": 25,
+      "child_ids": []
+    },
+    {
+      "id": 3105,
+      "name": "Differential",
+      "slug": "differential",
+      "count": 36,
+      "child_ids": []
+    },
+    {
+      "id": 3013,
+      "name": "Electrical",
+      "slug": "electrical-batterygaugesetc",
+      "count": 42,
+      "child_ids": []
+    },
+    {
+      "id": 3019,
+      "name": "Engine Parts",
+      "slug": "engine",
+      "count": 118,
+      "child_ids": [
+        3021,
+        3104,
+        3023,
+        3150
+      ]
+    },
+    {
+      "id": 3025,
+      "name": "Exhaust",
+      "slug": "exhaust",
+      "count": 10,
+      "child_ids": []
+    },
+    {
+      "id": 3026,
+      "name": "Exterior Parts",
+      "slug": "exterior-parts",
+      "count": 110,
+      "child_ids": [
+        3030,
+        3028,
+        3029,
+        3033
+      ]
+    },
+    {
+      "id": 3072,
+      "name": "Flywheel / Clutch",
+      "slug": "flywheel-clutch",
+      "count": 15,
+      "child_ids": []
+    },
+    {
+      "id": 3035,
+      "name": "Interior Parts",
+      "slug": "interior-parts",
+      "count": 134,
+      "child_ids": [
+        3037,
+        3039,
+        3038,
+        3042,
+        3043
+      ]
+    },
+    {
+      "id": 3046,
+      "name": "Lights",
+      "slug": "light-assemblies-lenses",
+      "count": 40,
+      "child_ids": [
+        3047,
+        3048,
+        3050,
+        3049
+      ]
+    },
+    {
+      "id": 3051,
+      "name": "Locks & Latches",
+      "slug": "locks-latches",
+      "count": 41,
+      "child_ids": [
+        3057
+      ]
+    },
+    {
+      "id": 3951,
+      "name": "Long Wheel Base / Gypsy King",
+      "slug": "lwb-gypsyking",
+      "count": 9,
+      "child_ids": []
+    },
+    {
+      "id": 2999,
+      "name": "Other Suzuki Parts",
+      "slug": "other-suzuki-parts",
+      "count": 11,
+      "child_ids": []
+    },
+    {
+      "id": 3064,
+      "name": "Shackles / Bushings",
+      "slug": "shackles-bushings",
+      "count": 21,
+      "child_ids": []
+    },
+    {
+      "id": 3063,
+      "name": "Shocks & Springs",
+      "slug": "springs-shocks",
+      "count": 14,
+      "child_ids": []
+    },
+    {
+      "id": 3078,
+      "name": "SIDEKICK / TRACKER",
+      "slug": "sidekick-tracker",
+      "count": 84,
+      "child_ids": []
+    },
+    {
+      "id": 3058,
+      "name": "Soft Top Parts",
+      "slug": "soft-top-parts",
+      "count": 12,
+      "child_ids": []
+    },
+    {
+      "id": 3106,
+      "name": "Steering Knuckle",
+      "slug": "steering-knuckle",
+      "count": 86,
+      "child_ids": [
+        3006,
+        3059
+      ]
+    },
+    {
+      "id": 3065,
+      "name": "Suspension Parts",
+      "slug": "other-suspension",
+      "count": 8,
+      "child_ids": []
+    },
+    {
+      "id": 3068,
+      "name": "T-Case Parts",
+      "slug": "t-case-parts",
+      "count": 55,
+      "child_ids": [
+        3964
+      ]
+    },
+    {
+      "id": 3070,
+      "name": "Transmission",
+      "slug": "transmission",
+      "count": 101,
+      "child_ids": [
+        3067,
+        3073
+      ]
+    },
+    {
+      "id": 3075,
+      "name": "Weatherstrip, Edging",
+      "slug": "weatherstrip-edging",
+      "count": 39,
+      "child_ids": []
+    },
+    {
+      "id": 3076,
+      "name": "Wheel & Tire",
+      "slug": "wheels-spare-tire",
+      "count": 15,
+      "child_ids": []
+    }
+  ],
+  "membership_source": "GET /wp-json/wc/store/v1/products?category={id}",
+  "membership_product_ids": 1219,
+  "membership_ids_missing_from_index": 0,
+  "indexed_products_absent_from_every_category": 0,
+  "category_filter_vs_reported_count": [
+    {
+      "name": "Interior Parts",
+      "slug": "interior-parts",
+      "reported_count": 134,
+      "filter_count": 137
+    },
+    {
+      "name": "Lights, Mirrors, Visors",
+      "slug": "lights-mirrorsvisors",
+      "reported_count": 9,
+      "filter_count": 10
+    },
+    {
+      "name": "Seat, Carpet, Pedals",
+      "slug": "seatspedalscarpet",
+      "reported_count": 30,
+      "filter_count": 32
+    }
+  ],
+  "notes": [
+    "All 1219 products returned by the public Store API were indexed. Product slugs are unique. Every product is type simple; the list payload reported no options or variations.",
+    "A product categories array often lists only the most specific category. Parent counts include descendants. category-products.json is the membership map from each category filter and matches the reported count except for the three small gaps listed in category_filter_vs_reported_count.",
+    "Samurai / SJ Series is not a catalog category. Sidekick / Tracker and Long Wheel Base / Gypsy King are top-level categories.",
+    "Images were not downloaded in this stage. Two products have no image in the Store API payload.",
+    "Stage 2 import saved plain-text descriptions for all 1,219 products and local WebP copies of all 2,389 unique product image URLs plus 51 category images. Product 102669 has no description. Products 119610 and 113353 have no source image."
+  ],
+  "import": {
+    "descriptions_stored": 1219,
+    "descriptions_empty": [
+      102669
+    ],
+    "unique_product_images_saved": 2389,
+    "category_images_saved": 51,
+    "products_with_no_source_image": [
+      119610,
+      113353
+    ],
+    "categories_without_a_source_image": [
+      "clearance",
+      "gaskets-engine-parts",
+      "other-suzuki-parts",
+      "transfer-case"
+    ]
+  }
+}
